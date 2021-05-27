@@ -1,0 +1,22 @@
+C:\Users\CIELO\documents\visual studio 2010\Projects\LIbrary-Program\LIbrary-Program\bin\Debug\LIbrary-Program.exe
+C:\Users\CIELO\documents\visual studio 2010\Projects\LIbrary-Program\LIbrary-Program\bin\Debug\LIbrary-Program.pdb
+C:\Users\CIELO\documents\visual studio 2010\Projects\LIbrary-Program\LIbrary-Program\bin\Debug\LIbrary-Program.xml
+C:\Users\CIELO\documents\visual studio 2010\Projects\LIbrary-Program\LIbrary-Program\obj\x86\Debug\LIbrary_Program.Form1.resources
+C:\Users\CIELO\documents\visual studio 2010\Projects\LIbrary-Program\LIbrary-Program\obj\x86\Debug\LIbrary_Program.Resources.resources
+C:\Users\CIELO\documents\visual studio 2010\Projects\LIbrary-Program\LIbrary-Program\obj\x86\Debug\LIbrary-Program.vbproj.GenerateResource.Cache
+C:\Users\CIELO\documents\visual studio 2010\Projects\LIbrary-Program\LIbrary-Program\obj\x86\Debug\LIbrary-Program.exe
+C:\Users\CIELO\documents\visual studio 2010\Projects\LIbrary-Program\LIbrary-Program\obj\x86\Debug\LIbrary-Program.xml
+C:\Users\CIELO\documents\visual studio 2010\Projects\LIbrary-Program\LIbrary-Program\obj\x86\Debug\LIbrary-Program.pdb
+E:\BSCpE\LIbrary-Program\LIbrary-Program\obj\x86\Debug\LIbrary-Program.exe
+E:\BSCpE\LIbrary-Program\LIbrary-Program\obj\x86\Debug\LIbrary-Program.xml
+E:\BSCpE\LIbrary-Program\LIbrary-Program\obj\x86\Debug\LIbrary-Program.pdb
+C:\Users\CIELO\Desktop\LIbrary-Program\LIbrary-Program\obj\x86\Debug\LIbrary-Program.exe
+C:\Users\CIELO\Desktop\LIbrary-Program\LIbrary-Program\obj\x86\Debug\LIbrary-Program.xml
+C:\Users\CIELO\Desktop\LIbrary-Program\LIbrary-Program\obj\x86\Debug\LIbrary-Program.pdb
+C:\Users\CIELO\Desktop\LIbrary-Program\LIbrary-Program\bin\Debug\LIbrary-Program.exe
+C:\Users\CIELO\Desktop\LIbrary-Program\LIbrary-Program\bin\Debug\LIbrary-Program.pdb
+C:\Users\CIELO\Desktop\LIbrary-Program\LIbrary-Program\bin\Debug\LIbrary-Program.xml
+C:\Users\CIELO\Desktop\LIbrary-Program\LIbrary-Program\obj\x86\Debug\LIbrary_Program.Form1.resources
+C:\Users\CIELO\Desktop\LIbrary-Program\LIbrary-Program\obj\x86\Debug\LIbrary_Program.Resources.resources
+C:\Users\CIELO\Desktop\LIbrary-Program\LIbrary-Program\obj\x86\Debug\LIbrary-Program.vbproj.GenerateResource.Cache
+C:\Users\CIELO\Desktop\LIbrary-Program\LIbrary-Program\bin\Debug\LIbrary-Program.exe.config

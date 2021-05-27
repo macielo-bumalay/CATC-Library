@@ -1,0 +1,9 @@
+C:\Users\CIELO\Desktop\LIbrary-Program\LIbrary-Program\bin\Release\LIbrary-Program.exe
+C:\Users\CIELO\Desktop\LIbrary-Program\LIbrary-Program\bin\Release\LIbrary-Program.pdb
+C:\Users\CIELO\Desktop\LIbrary-Program\LIbrary-Program\bin\Release\LIbrary-Program.xml
+C:\Users\CIELO\Desktop\LIbrary-Program\LIbrary-Program\obj\x86\Release\LIbrary_Program.Form1.resources
+C:\Users\CIELO\Desktop\LIbrary-Program\LIbrary-Program\obj\x86\Release\LIbrary_Program.Resources.resources
+C:\Users\CIELO\Desktop\LIbrary-Program\LIbrary-Program\obj\x86\Release\LIbrary-Program.vbproj.GenerateResource.Cache
+C:\Users\CIELO\Desktop\LIbrary-Program\LIbrary-Program\obj\x86\Release\LIbrary-Program.exe
+C:\Users\CIELO\Desktop\LIbrary-Program\LIbrary-Program\obj\x86\Release\LIbrary-Program.xml
+C:\Users\CIELO\Desktop\LIbrary-Program\LIbrary-Program\obj\x86\Release\LIbrary-Program.pdb
